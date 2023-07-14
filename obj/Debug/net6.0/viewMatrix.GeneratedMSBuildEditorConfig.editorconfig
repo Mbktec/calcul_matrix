@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = viewMatrix
+build_property.RootNamespace = viewMatrix
+build_property.ProjectDir = C:\Users\GABERA\Desktop\app\viewMatrix\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\GABERA\Desktop\app\viewMatrix
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/GABERA/Desktop/app/viewMatrix/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GABERA/Desktop/app/viewMatrix/MatrixCalculator.razor]
+build_metadata.AdditionalFiles.TargetPath = TWF0cml4Q2FsY3VsYXRvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-pk3ppwviwd
